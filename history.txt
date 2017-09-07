@@ -1,0 +1,172 @@
+    1  VirtualBox --startvm XP
+    2  uname -r
+    3  uname-r
+    4  uname - r
+    5  uname -r
+    6  lsb_release
+    7  cat /etc/*-release
+    8  echo $0
+    9  uname -r
+   10  man uname
+   11  pwd
+   12  whoami
+   13  who
+   14  ls
+   15  ls -l
+   16  ls
+   17  ls -a
+   18  ls
+   19  ls -a
+   20  ls
+   21  ls -a
+   22  ls -la
+   23  ls -al
+   24  ls -la
+   25  ls
+   26  ls -la
+   27  ls
+   28  ls -l
+   29  pwd
+   30  cd Documents/
+   31  pwd
+   32  ls
+   33  ls -l
+   34  ls -la
+   35  pwd
+   36  cd .
+   37  pwd
+   38  cd ..
+   39  pwd
+   40  cd ..
+   41  pwd
+   42  cd ..
+   43  pwd
+   44  cd ..
+   45  pwd
+   46  home/user
+   47  cd /home/user
+   48  pwd
+   49  cd /
+   50  pwd
+   51  cd ~
+   52  pwd
+   53  cd /
+   54  pwd
+   55  cd
+   56  pwd
+   57  whoami
+   58  ssh -X xtaso@213.175.92.22
+   59  ssh -X xTaSo@213.175.92.22
+   60  pwd
+   61  cd Documents/
+   62  cd ..
+   63  cd
+   64  pwd
+   65  ls
+   66  mkdir darbi
+   67  ls
+   68  ls -l
+   69  cd /
+   70  mkdir darbi
+   71  cd
+   72  mkdir darbi
+   73  ls -l
+   74  cd darbi/
+   75  ls
+   76  ls -la
+   77  cd ..
+   78  pwd
+   79  ls -l
+   80  cd VirtualBox\ VMs/
+   81  ls -l
+   82  cd ..
+   83  ls
+   84  rmdir VirtualBox\ VMs/
+   85  man rmdir
+   86  rmdir darbi
+   87  ls
+   88  mkdir darbi
+   89  ls
+   90  cd darbi/
+   91  pwd
+   92  history
+   93  echo Vaards
+   94  echo Vaards Uzvaards
+   95  echo "Vaards Uzvaards"
+   96  ls
+   97  echo "Vaards Uzvaards" > a.txt
+   98  ls
+   99  ls -l
+  100  echo "teksts" > b.txt
+  101  ls -l
+  102  echo "teksts1" > c.txt
+  103  ls -l
+  104  cat a.txt 
+  105  cat b.txt 
+  106  cat c.txt 
+  107  echo "teksts2" > c.txt
+  108  ls -l
+  109  cat c.txt 
+  110  echo "teksts3" >> c.txt
+  111  ls -l
+  112  cat c.txt 
+  113  cat a.txt >> d.txt
+  114  cat b.txt >> d.txt
+  115  cat c.txt >> d.txt
+  116  cat d.txt 
+  117  man cd >> e.txt
+  118  man uname >> e.txt
+  119  cat e.txt 
+  120  ls -l
+  121  cp a.txt A.txt
+  122  ls -l
+  123  cp b.txt b.txt
+  124  ls -l
+  125  cp c.txt ../c.txt
+  126  ls -l
+  127  cd ..
+  128  pwd
+  129  ls -l
+  130  cat c.txt 
+  131  cd /
+  132  pwd
+  133  cp /home/user/darbi/b.txt ~/b1.txt
+  134  cd
+  135  ls -l
+  136  cat b1.txt 
+  137  cd
+  138  ls -l
+  139  rm b1.txt c.txt 
+  140  ls -l
+  141  rm ./darbi/*.txt
+  142  cd darbi/
+  143  ls -l
+  144  pwd
+  145  echo "teksts1" >> a1.txt
+  146  echo "teksts2" >> a2.txt
+  147  echo "teksts3" >> b1.txt
+  148  echo "teksts4" >> b2.txt
+  149  ls -la
+  150  ls -l
+  151  mv a*.txt ../
+  152  ls -l
+  153  cd ..
+  154  ls -l
+  155  pwd
+  156  rm ./darbi/*.txt
+  157  cd darbi/
+  158  ls -l
+  159  pwd
+  160  echo "teksts1" >> a1.txt
+  161  ls -l
+  162  cat a1.txt 
+  163  nano a1.txt
+  164  ls -l
+  165  cat a1.txt 
+  166  pwd
+  167  ls -l
+  168  pwd
+  169  history
+  170  pwd
+  171  history
+  172  history > history.txt
