@@ -55,8 +55,6 @@
    55  cd
    56  pwd
    57  whoami
-   58  ssh -X xtaso@213.175.92.22
-   59  ssh -X xTaSo@213.175.92.22
    60  pwd
    61  cd Documents/
    62  cd ..
@@ -170,3 +168,16 @@
   170  pwd
   171  history
   172  history > history.txt
+  173  git init
+  174  sudo apt-get install git
+  175  su sc
+  176  git init
+  177  su sc
+  178  git init
+  179  git add .
+  185  git config --global user.email aaa@bbb.cc
+  186  git commit -m "20170907_13_07"
+  189  git remote add origin https://github.com/rtu-etf/2017_2018_00.git
+  190  git push origin master
+  191  nano history.txt 
+  192  history > history.txt 
