@@ -181,3 +181,22 @@
   190  git push origin master
   191  nano history.txt 
   192  history > history.txt 
+    1  VirtualBox --startvm XP
+    2  firefox &
+    3  pwd
+    4  ls -la
+    5  ls -l
+    6  ls 
+    7  git clone https://github.com/rtu-etf/2017_2018_00.git
+    8  ls -la
+    9  ls -l
+   10  cd 2017_2018_00/
+   11  ls -l
+   12  git init
+   13  history
+   14  history >> history.txt 
+   15  git add .
+   16  git commit -m "20170907_13_23"
+   17  git push origin master
+   19  git reset --hard 02f344491b82ee15481e4f96ea5745ba2ac78556
+   20  git push --force
