@@ -1,93 +1,60 @@
     1  VirtualBox --startvm XP
-    2  pwd
-    3  ls -la
-    4  pwd
-    5  ls -l
-    6  git clone https://github.com/rtu-etf/2017_2018_00
-    7  ls -l
-    8  nano
-    9  ls -l
-   10  cat git-download.sh 
-   11  ls
-   12  git-download
-   13  git-download.sh
-   14  echo $PATH
-   15  whereis ls
-   16  cat /bin/ls
-   17  ls
-   18  ls -l /bin/ls
-   19  ls -l
-   20  ls
-   21  cp git-download.sh /bin/
-   22  pwd
-   23  ls -l
-   24  git-dowload.sh
-   25  echo $PATH
-   26  /bin/ls
-   27  ls
-   28  ls -l
-   29  pwd
-   30  /home/user/git-download.sh
-   31  ls
-   32  chmod 744 git-download.sh 
-   33  ls -l
-   34  ~/git-download.sh
-   35  ls -l
-   36  ./git-download.sh cat git-download.sh 
-   37  cat git-download.sh 
-   38  ./git-download.sh
-   39  ls -l
-   40  ls
-   41  ./git-download.sh
-   42  ls
-   43  ./git-download.sh
-   44  ls
-   45  ./git-download.sh
-   46  ls
-   47  ./git-download.sh
-   48  git-download
-   49  history
-   50  git-download
-   51  echo $PATH
-   52  PATH=/home/user:$PATH
+    2  ls
+    3  nano git-download.sh
+    4  ls -l
+    5  cat git-download.sh 
+    6  git-download
+    7  ls
+    8  git-download
+    9  echo $PATH
+   10  whereis ls
+   11  ls -l /bin/ls
+   12  cat /bin/ls
+   13  echo $PATH
+   14  ls -l /bin/ls
+   15  ls -l
+   16  pwd
+   17  git-download
+   18  ls 
+   19  pwd
+   20  PATH=$PATH:/home/user
+   21  echo $PATH
+   22  PATH=/home/user
+   23  ls
+   24  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user
+   25  ls
+   26  git-download
+   27  git-download.sh
+   28  ls -l git-download.sh 
+   29  ls -l /bin/ls
+   30  chmod 744 git-download.sh 
+   31  ls -l git-download.sh 
+   32  git-download
+   33  git-download.sh
+   34  ls -l
+   35  git-download
+   36  ls
+   37  mv git-download.sh git-download
+   38  ls -l
+   39  git-download 
+   40  ls -l
+   41  cd 2017_2018_00/
+   42  ls -l
+   43  rm git-*
+   44  ls -l
+   45  rm history_20170920.txt 
+   46  ls -l
+   47  ls -la
+   48  ls -l
+   49  pwd
+   50  ls
+   51  mv ~/git-download ./
+   52  ls -l
    53  echo $PATH
-   54  git-download
-   55  git-download.sh 
-   56  git-download
-   57  ls -l
-   58  mv git-download.sh git-download
-   59  ls -l
-   60  git-download 
-   61  ls -l
-   62  mkdir darbi
-   63  cd darbi/
-   64  git-download 
-   65  ls
-   66  ls -l
-   67  cd 2017_2018_00/
-   68  ls -l
-   69  ls -la
-   70  cd .
-   71  ls -l
-   72  cd  .
-   73  cd ..
-   74  ls -l
-   75  cd 2017_2018_00/
-   76  ls -l
-   77  whereis git-download
-   78  ls ~/
-   79  cp ~/git-download ./
-   80  ls -l
-   81  nano git-upload
-   82  ls -l
-   83  chmod 744 git-upload 
-   84  ls -l
-   85  ls -la
-   86  git-upload
-   87  ./git-
-   88  ./git-upload 
-   89  pwd
-   90  PATH=$PATH:/home/user/darbi/2017_2018_00
-   91  git-upload
-   92  ls -l
-   93  history > history_20170920.txt
+   54  PATH=$PATH:~/2017_2018_00
+   55  git-download 
+   56  ls -l
+   57  rm -rf 2017_2018_00/
+   58  ls -l
+   59  nano git-upload
+   60  history > history_20170920.txt 
