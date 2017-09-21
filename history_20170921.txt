@@ -53,3 +53,70 @@
    53  cat git-upload 
    54  git-upload
    55  history > history_20170921.txt 
+   56  ls -l
+   57  git-upload
+   58  git-upload-
+   59  git-upload
+   60  pwd
+   61  echo $PATH
+   62  PATH=$PATH:/home/user/2017_2018_00
+   63  git-upload
+   64  ls -la
+   65  chmod 744 git-upload 
+   66  ls -la
+   67  git-upload
+   68  nano git-upload 
+   69  nano history_20170921.txt 
+   70  man firefox
+   71  nano inbox
+   72  ls -l
+   73  cat inbox 
+   74  inbox
+   75  chmod 744 inbox 
+   76  inbox
+   77  nano inbox
+   78  inbox
+   79  cat inbox 
+   80  inbox
+   81  nano inbox 
+   82  nano git-upload 
+   83  ifconfig 
+   84  ifconfig
+   85  ssh -X user@10.152.17.114
+   86  _ALI=10
+   87  echo $_ALI
+   88  _ALI=20
+   89  echo $_ALI
+   90  -ALI=50
+   91  a...z A...Z 0...9 _
+   92  A-LI=50
+   93  1ALI
+   94  A1LI
+   95  1ALI=50
+   96  A1LI=50
+   97  mainiigais=5
+   98  echo $mainiigais
+   99  $mainiigais
+  100  echo $mainiigais
+  101  mainiigais="teksts"
+  102  echo $mainiigais
+  103  mainiigais=2.5
+  104  echo $mainiigais
+  105  nano shell_treninjsh.sh
+  106  ls -l
+  107  ./shell_treninjsh.sh
+  108  chmod 744 shell_treninjsh.sh 
+  109  ls -l
+  110  ./shell_treninjsh.sh
+  111  echo $AAA
+  112  AAA=*****
+  113  echo $AAA
+  114  cat shell_treninjsh.sh 
+  115  ./shell_treninjsh.sh
+  116  echo $NAME
+  117  nano shell_treninjsh.sh
+  118  ./shell_treninjsh.sh
+  119  nano shell_treninjsh.sh
+  120  ./shell_treninjsh.sh
+  121  cat shell_treninjsh.sh 
+  122  history > history_20170921.txt
