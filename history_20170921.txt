@@ -1,122 +1,55 @@
     1  VirtualBox --startvm XP
-    2  nano
-    3  ls-l
-    4  ls -l
-    5  cat git-download.sh 
-    6  ls
-    7  git-download
-    8  whereis ls
-    9  ls -l /bin/ls
-   10  ls -l git-download.sh 
-   11  echo $PATH
-   12  cat /bin/ls
-   13  ls -l
-   14  pwd
+    2  pwd
+    3  ls -l
+    4  ls
+    5  nano
+    6  ls -l
+    7  cat git-download.sh 
+    8  ls
+    9  git-download.sh
+   10  whereis ls
+   11  ls -l /bin/ls
+   12  /bin/ls
+   13  echo $PATH
+   14  PATH=$PATH:~
    15  echo $PATH
-   16  PATH=$PATH:/home/user
-   17  echo $PATH
-   18  ls
-   19  /bin/ls
-   20  ~/git-download.sh
-   21  git-download.sh
-   22  ls -l
-   23  ls -l /bin/ls
-   24  chmod 744 git-download.sh 
+   16  git-download.sh
+   17  whereis ls
+   18  ls -l /bin/ls
+   19  ls -l git-download.sh 
+   20  chmod 744 git-download.sh 
+   21  ls -l git-download.sh 
+   22  ls
+   23  ls -l
+   24  git-download.sh
    25  ls -l
-   26  git-download.sh
-   27  echo $PATH
-   28  ls
-   29  PATH=/home/user
-   30  echo $PATH
-   31  ls
-   32  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user
-   33  ls
-   34  ls -l
-   35  mv git-download.sh git-download
-   36  ls -l
-   37  cat git-download 
-   38  ls -l
-   39  cat git-download 
+   26  cd 2017_2018_00/
+   27  ls -l
+   28  rm git*
+   29  rm sh*
+   30  rm in*
+   31  ls -l
+   32  rm history_*
+   33  ls -l
+   34  pwd
+   35  ls -l
+   36  mv ../git-download.sh ./
+   37  ls -l
+   38  ls
+   39  mv git-download.sh git-download
    40  ls -l
-   41  cd 2017_2018_00/
-   42  ls -la
-   43  rm git-*
-   44  rm history_
-   45  rm history_20170920.txt 
-   46  ls -la
-   47  pwd
-   48  ls -la
-   49  cp ../git-download ./
-   50  ls -la
-   51  nano git-upload
-   52  ls -l
-   53  cat git-upload 
-   54  git-upload
+   41  git-download
+   42  PATH=$PATH:~/2017_2018_00
+   43  git-download
+   44  ls -l
+   45  rm -rf 2017_2018_00/
+   46  ls -l
+   47  nano git-upload
+   48  ls -l
+   49  ls -la
+   50  ls -l
+   51  ls -la
+   52  git-upload
+   53  chmod 744 git-upload 
+   54  ls -la
    55  history > history_20170921.txt 
-   56  ls -l
-   57  git-upload
-   58  git-upload-
-   59  git-upload
-   60  pwd
-   61  echo $PATH
-   62  PATH=$PATH:/home/user/2017_2018_00
-   63  git-upload
-   64  ls -la
-   65  chmod 744 git-upload 
-   66  ls -la
-   67  git-upload
-   68  nano git-upload 
-   69  nano history_20170921.txt 
-   70  man firefox
-   71  nano inbox
-   72  ls -l
-   73  cat inbox 
-   74  inbox
-   75  chmod 744 inbox 
-   76  inbox
-   77  nano inbox
-   78  inbox
-   79  cat inbox 
-   80  inbox
-   81  nano inbox 
-   82  nano git-upload 
-   83  ifconfig 
-   84  ifconfig
-   85  ssh -X user@10.152.17.114
-   86  _ALI=10
-   87  echo $_ALI
-   88  _ALI=20
-   89  echo $_ALI
-   90  -ALI=50
-   91  a...z A...Z 0...9 _
-   92  A-LI=50
-   93  1ALI
-   94  A1LI
-   95  1ALI=50
-   96  A1LI=50
-   97  mainiigais=5
-   98  echo $mainiigais
-   99  $mainiigais
-  100  echo $mainiigais
-  101  mainiigais="teksts"
-  102  echo $mainiigais
-  103  mainiigais=2.5
-  104  echo $mainiigais
-  105  nano shell_treninjsh.sh
-  106  ls -l
-  107  ./shell_treninjsh.sh
-  108  chmod 744 shell_treninjsh.sh 
-  109  ls -l
-  110  ./shell_treninjsh.sh
-  111  echo $AAA
-  112  AAA=*****
-  113  echo $AAA
-  114  cat shell_treninjsh.sh 
-  115  ./shell_treninjsh.sh
-  116  echo $NAME
-  117  nano shell_treninjsh.sh
-  118  ./shell_treninjsh.sh
-  119  nano shell_treninjsh.sh
-  120  ./shell_treninjsh.sh
-  121  cat shell_treninjsh.sh 
-  122  history > history_20170921.txt
