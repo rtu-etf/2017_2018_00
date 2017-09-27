@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00.git
+    3  ls -l
+    4  cd 2017_2018_00/
+    5  ls -la
+    6  nano
+    7  $mainiigais=10
+    8  mainiigais=10
+    9  echo $mainiigais
+   10  echo $mainigais
+   11  mainiigais_________=20
+   12  echo $mainiigais_________
+   13  1mainiigais=20
+   14  mainiigais1=20
+   15  pwd
+   16  nano shell_programming.sh
+   17  ls -l
+   18  nano
+   19  ls -l
+   20  echo $0
+   21  sh
+   22  cat /etc/shells
+   23  ls -l
+   24  chmod 744 shell_programming.sh 
+   25  ls -l
+   26  shell_programming.sh
+   27  pwd
+   28  ./shell_programming.sh 
+   29  cat shell_programming.sh 
+   30  nano
+   31  nano shell_programming.sh
+   32  ./shell_programming.sh 
+   33  nano shell_programming.sh
+   34  ./shell_programming.sh 
+   35  nano shell_programming.sh
+   36  ./shell_programming.sh 
+   37  nano shell_programming.sh
+   38  ./shell_programming.sh 
+   39  nano shell_programming.sh
+   40  ls -l
+   41  cp shell_programming.sh shell_programming.txt
+   42  ls -l
+   43  nano shell_programming.txt 
+   44  chmod 644 shell_programming.txt 
+   45  nano shell_programming.txt 
+   46  ls l
+   47  ls -l
+   48  nano a1.txt
+   49  ls -la
+   50  pwd
+   51  ls -la
+   52  nano git-upload 
+   53  history > history_20170927.txt

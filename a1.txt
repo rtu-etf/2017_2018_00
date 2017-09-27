@@ -1,3 +1,2 @@
-teksts1
-teksts2
-teksts3
+NAME="Vaards Uzvaards"
+echo $NAME
