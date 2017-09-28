@@ -134,3 +134,16 @@
   134  cd ..
   135  nano git-upload 
   136  history > history_20170928.txt
+  137  nano git-upload 
+  138  history > history_20170928_.txt
+  139  ls -la
+  140  md temp/
+  141  ls la
+  142  ls -la
+  143  cd temp/
+  144  ls -la
+  145  mv shell_exple.sh ../
+  146  ls -la
+  147  cd ..
+  148  ls -la
+  149  history > history_20170928_.txt
