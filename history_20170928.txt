@@ -1,0 +1,79 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00.git
+    3  ls -l
+    4  cd 2017_2018_00/
+    5  pwd
+    6  ls -l
+    7  nano
+    8  nano shell_examples.sh
+    9  nano shell_examples_.sh
+   10  mkdir temp
+   11  mv shell_examples_.sh temp/
+   12  ls -l
+   13  cd temp/
+   14  ls -l
+   15  cat shell_examples_.sh 
+   16  shell_examples.sh
+   17  pwd
+   18  /home/user/2017_2018_00/temp/shell_examples_.sh
+   19  pwd
+   20  /home/user/2017_2018_00/temp/shell_examples_.sh
+   21  ~/2017_2018_00/temp/shell_examples_.sh
+   22  ./shell_examples_.sh
+   23  ls -la
+   24  chmod 744 shell_examples_.sh
+   25  ls -l
+   26  ls
+   27  ls -la
+   28  ./shell_examples_.sh
+   29  cat shell_examples_.sh 
+   30  nano shell_examples_.sh 
+   31  ./shell_examples_.sh
+   32  cat shell_examples_.sh 
+   33  ./shell_examples_.sh
+   34  nano shell_examples_.sh 
+   35  ./shell_examples_.sh
+   36  nano shell_examples_.sh 
+   37  ./shell_examples_.sh
+   38  nano shell_examples_.sh 
+   39  ./shell_examples_.sh
+   40  cat shell_examples_.sh 
+   41  nano shell_examples_.sh 
+   42  ./shell_examples_.sh
+   43  echo $0
+   44  nano shell_examples_.sh 
+   45  echo $0
+   46  ./shell_examples_.sh
+   47  echo $0
+   48  ./shell_examples_.sh
+   49  ~/2017_2018_00/temp/shell_examples_.sh
+   50  echo $0
+   51  ./shell_examples_.sh
+   52  ~/2017_2018_00/temp/shell_examples_.sh
+   53  echo $0
+   54  ./shell_examples_.sh
+   55  ~/2017_2018_00/temp/shell_examples_.sh
+   56  echo $#
+   57* 
+   58  echo $#
+   59  ./shell_examples_.sh
+   60  ./shell_examples_.sh arg1
+   61  ./shell_examples_.sh arg1 arg2
+   62  ./shell_examples_.sh arg1 arg2 arg3
+   63  nano shell_examples_.sh 
+   64  ./shell_examples_.sh arg1 arg2 arg3
+   65  ./shell_examples_.sh
+   66  ./shell_examples_.sh arg1
+   67  ./shell_examples_.sh arg1 arg2
+   68  s -l
+   69  sls -l
+   70  ls -l
+   71  mv shell_examples_.sh ../
+   72  ls -la
+   73  cd ..
+   74  ls -la
+   75  rm temp/
+   76  rm -r temp/
+   77  ls -la
+   78  nano git-upload 
+   79  history > history_20170928.txt
