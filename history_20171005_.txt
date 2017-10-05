@@ -1,0 +1,31 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00.git
+    3  ls -la
+    4  ls -l
+    5  cd 2017_2018_00/
+    6  pwd
+    7  nano  
+    8  nano s1.sh
+    9  ls -lt
+   10  chmod 744 s1.sh 
+   11  s1.sh
+   12  chmod 744 s1.sh 
+   13  ls -la
+   14  ls -lt
+   15  ls -l
+   16  nano shell_operators_.sh 
+   17  chmod 744 shell_operators_.sh 
+   18  cat shell_operators_.sh 
+   19  ./shell_operators_.sh 
+   20  nano shell_operators_.sh 
+   21  ./shell_operators_.sh 
+   22  nano shell_operators_.sh 
+   23  cat shell_operators
+   24  cat shell_operators.sh 
+   25  nano shell_operators_.sh 
+   26  ./shell_operators_.sh 
+   27  nano shell_operators_.sh 
+   28  cat history_20170927.txt 
+   29  nano shell_operators_.sh 
+   30  ./shell_operators_.sh 56 78
+   31  history > history_20171005_.txt
