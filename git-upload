@@ -1,5 +1,10 @@
 #!/bin/bash
+if [ $# == 1 ]
+then
 git config --global user.email Tatjana.Solovjova@rtu.lv
 git add .
-git commit -m "20170928_18_40"
+#git commit -m "20170928_18_40"
+git commit -m $1
 git push origin master
+fi
+

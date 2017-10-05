@@ -1,0 +1,108 @@
+    1  VirtualBox --startvm XP
+    2  lpwd
+    3  pwd
+    4  ls -la
+    5  ls -l
+    6  git clone https://github.com/rtu-etf/2017_2018_00.git
+    7  ls -l
+    8  nano
+    9  val=`expr 2 + 2`
+   10  echo $val
+   11  val=2 + 2
+   12  val=`2 + 2`
+   13  val="2 + 2"
+   14  echo $val
+   15  a=10
+   16  b=20
+   17  [$a==$b]
+   18  c=`expr [$a==$b]` 
+   19  echo $c
+   20  [ $a == $b ]
+   21  c=[ $a == $b ]
+   22  c=`expr [ $a == $b ]`
+   23  man ls
+   24  c=[ $a == $b ]
+   25  c= [ $a == $b ]
+   26  echo $c
+   27  c= [ $a == $a ]
+   28  echo $c
+   29  if $c then echo 1 else echo 0 fi
+   30  if $c then echo 1; else echo 0; fi
+   31  nano test.sh
+   32  ls -la
+   33  ls -l
+   34  chmod 744 test.sh 
+   35  ./test.sh 
+   36  nano test.sh
+   37  ./test.sh 
+   38  nano test.sh
+   39  ./test.sh 
+   40  nano test.sh
+   41  ./test.sh 
+   42  nano test.sh
+   43  ./test.sh 
+   44  nano test.sh
+   45  ./test.sh 
+   46  nano test.sh
+   47  ./test.sh 
+   48  nano test.sh
+   49  ./test.sh 
+   50  nano test.sh
+   51  ./test.sh 
+   52  nano test.sh
+   53  ./test.sh 
+   54  nano test.sh
+   55  ./test.sh 
+   56  nano test.sh
+   57  ls -la
+   58  ls -l
+   59  mv test.sh 2017_2018_00/
+   60  ls -l
+   61  cd 2017_2018_00/
+   62  ls -l
+   63  ls -lt
+   64  nano shell_operators.sh
+   65  ls -l
+   66  ls -lt
+   67  nano shell_operators.sh
+   68  ls -lt
+   69  chmod 744 shell_operators.sh 
+   70  ls -lt
+   71  ./shell_operators.sh 
+   72  nano shell_operators.sh
+   73  cat shell_operators.sh 
+   74  ./shell_operators.sh 
+   75  nano shell_operators.sh
+   76  ./shell_operators.sh 
+   77  nano shell_operators.sh
+   78  ./shell_operators.sh 
+   79  nano shell_operators.sh
+   80  ./shell_operators.sh 
+   81  nano shell_operators.sh
+   82  ./shell_operators.sh 
+   83  nano shell_operators.sh
+   84  ./shell_operators.sh 
+   85  nano shell_operators.sh
+   86  ./shell_operators.sh 
+   87  nano shell_operators.sh
+   88  ./shell_operators.sh 
+   89  nano shell_operators.sh
+   90  ./shell_operators.sh 50 96
+   91  nano shell_operators.sh
+   92  ./shell_operators.sh 50 96
+   93  ./shell_operators.sh 50 145
+   94  nano shell_operators.sh
+   95  ./shell_operators.sh 50
+   96  nano shell_operators.sh
+   97  ./shell_operators.sh 50 89
+   98  nano shell_operators.sh
+   99  ./shell_operators.sh 50 89
+  100  ./shell_operators.sh 50
+  101  nano shell_operators.sh
+  102  ./shell_operators.sh
+  103  ./shell_operators.sh 58
+  104  ./shell_operators.sh 58 89
+  105  pwd
+  106  ls -la
+  107  ls -lat
+  108  history > history_20171005.txt
