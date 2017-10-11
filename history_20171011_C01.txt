@@ -43,3 +43,24 @@
    43  ls -la
    44  nano git-upload 
    45  history > history_20171011_C01.txt
+   46  ./git-upload 20171011_14_10
+   47  nano shell_operators_C01.sh 
+   48  ./shell_operators_C01.sh 
+   49  ./shell_operators_C01.sh 5 10
+   50  nano shell_operators_C01.sh 
+   51  nano shell_operators_C01.sh 5 10
+   52  ./shell_operators_C01.sh 5 10
+   53  ./shell_operators_C01.sh 78 96
+   54  ./shell_operators_C01.sh
+   55  nano shell_operators_C01.sh 5 10
+   56  ./shell_operators_C01.sh
+   57  ./shell_operators_C01.sh 1
+   58  ./shell_operators_C01.sh 1 56
+   59  nano dialogs.sh
+   60  ls -l
+   61  chmod 744 dialogs.sh 
+   62  ./dialogs.sh 
+   63  nano dialogs.sh
+   64  ./dialogs.sh 
+   65  nano git-upload 
+   66  history > history_20171011_C01.txt 
