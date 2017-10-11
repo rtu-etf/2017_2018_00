@@ -1,0 +1,51 @@
+    1  VirtualBox --startvm XP
+    2  ssh xxarab@213.175.92.22
+    3  firefox
+    4  pwd
+    5  ls -la
+    6  ls -l
+    7  git clone https://github.com/rtu-etf/2017_2018_00.git
+    8  ls -la
+    9  ls -l
+   10  cd 2017_2018_00/
+   11  ls -l
+   12  cat history_20170927.txt 
+   13  ls -la
+   14  cat shell_programming.sh 
+   15  nano 
+   16  ls -l
+   17  cat shell_operators.sh 
+   18  echo $PATH
+   19  PATH=$PATH:./
+   20  echo $PATH
+   21  PATH=$PATH:~/2017_2018_00
+   22  echo $PATH
+   23  ls -l
+   24  cd temp/
+   25  ls -la
+   26  nano shell_operators_C02.sh
+   27  cat shell_operators_C02.sh 
+   28  ls -l
+   29  rm y 
+   30  ls -l
+   31  chmod 744 shell_operators_C02.sh 
+   32  ls -l
+   33  ./shell_operators_C02.sh 
+   34  nano shell_operators_C02.sh
+   35  ./shell_operators_C02.sh 
+   36  nano shell_operators_C02.sh
+   37  ./shell_operators_C02.sh 
+   38  nano shell_operators_C02.sh
+   39  ./shell_operators_C02.sh 
+   40  nano shell_operators_C02.sh
+   41  ./shell_operators_C02.sh 
+   42  nano shell_operators_C02.sh
+   43  ./shell_operators_C02.sh 
+   44  nano shell_operators_C02.sh
+   45  ./shell_operators_C02.sh 
+   46  nano shell_operators_C02.sh
+   47  ./shell_operators_C02.sh 
+   48  cd ..
+   49  mv temp/shell_operators_C02.sh ./
+   50  nano git-upload 
+   51  history > history_20171011_C02.txt
