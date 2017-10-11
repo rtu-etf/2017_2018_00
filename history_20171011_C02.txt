@@ -49,3 +49,35 @@
    49  mv temp/shell_operators_C02.sh ./
    50  nano git-upload 
    51  history > history_20171011_C02.txt
+   52  ./git-upload
+   53  ./git-upload 20171011_09_50
+   54  ls -la
+   55  cd temp/
+   56  ls -la
+   57  mv ../shell_operators_C02.sh ./
+   58  ls -la
+   59  ls -l
+   60  ./shell_operators_C02.sh
+   61  ./shell_operators_C02.sh 5 3
+   62  nano shell_operators_C02.sh 
+   63  nano shell_operators_C01.sh
+   64  nano shell_operators_C02.sh 
+   65  ./shell_operators_C02.sh 5 3
+   66  ./shell_operators_C02.sh 89 45
+   67  ./shell_operators_C02.sh 
+   68  nano shell_operators_C02.sh 
+   69  ./shell_operators_C02.sh 
+   70  nano shell_operators_C02.sh 
+   71  ./shell_operators_C02.sh 
+   72  cd ..
+   73  cat git-upload 
+   74  cd temp/
+   75  nano shell_operators_C02.sh 
+   76  ./shell_operators_C02.sh 
+   77  nano shell_operators_C02.sh 
+   78  ./shell_operators_C02.sh 
+   79  ./shell_operators_C02.sh 5
+   80  ./shell_operators_C02.sh 5 8
+   81  cd ..
+   82  nano git-upload 
+   83  history > history_20171011_C02.txt
