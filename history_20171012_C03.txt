@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtr-etf/2017_2018_00.git
+    3  git clone https://github.com/rtu-etf/2017_2018_00.git
+    4  pwd
+    5  ls -l
+    6  cd 2017_2018_00/
+    7  ls -l shell_operators.sh
+    8  cat shell_operators.sh 
+    9  cat shell_operators.sh > shell_operators_atkaartoti_C03.sh
+   10  nano shell_operators_atkaartoti_C03.sh 
+   11  ./shell_operators_atkaartoti_C03.sh 
+   12  chmod 744 shell_operators_atkaartoti_C03.sh 
+   13  ./shell_operators_atkaartoti_C03.sh 
+   14  nano shell_operators_atkaartoti_C03.sh 
+   15  shell_operators_atkaartoti_C03.sh 
+   16  ./shell_operators_atkaartoti_C03.sh 
+   17  nano shell_operators_atkaartoti_C03.sh 
+   18  nano git-upload 
+   19  history > history_20171012_C03.txt
