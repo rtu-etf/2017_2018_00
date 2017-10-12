@@ -1,0 +1,40 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -la
+    4  ls -l
+    5  git clone https://github.com/rtu-etf/2017_2018_00.git
+    6  nano 
+    7  ls -l
+    8  cd 2017_2018_00/PWD
+    9  pwd
+   10  cd 2017_2018_00/
+   11  pwd
+   12  nano shell_relational_operators_comments.sh
+   13  ls -l
+   14  mv shell_relational_operators_comments.sh temp/
+   15  cd temp/
+   16  ls -la
+   17  rm shell_operators_C02.sh y
+   18  ls -la
+   19  shell_relational_operators_comments.sh
+   20  ./shell_relational_operators_comments.sh
+   21  chmod 744 shell_relational_operators_comments.sh 
+   22  ls -la
+   23  ./shell_relational_operators_comments.sh 
+   24  nano shell_relational_operators_comments.sh
+   25  ./shell_relational_operators_comments.sh 
+   26  nano shell_relational_operators_comments.sh
+   27  ./shell_relational_operators_comments.sh 
+   28  nano shell_relational_operators_comments.sh
+   29  ./shell_relational_operators_comments.sh 
+   30  nano shell_relational_operators_comments.sh
+   31  ./shell_relational_operators_comments.sh 
+   32  nano shell_relational_operators_comments.sh
+   33  ./shell_relational_operators_comments.sh 
+   34  nano shell_relational_operators_comments.sh
+   35  ./shell_relational_operators_comments.sh 
+   36  nano shell_relational_operators_comments.sh
+   37  ./shell_relational_operators_comments.sh 
+   38  cd ..
+   39  nano git-upload 
+   40  history > history_20171012_C04.txt
