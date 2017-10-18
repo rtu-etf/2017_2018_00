@@ -1,0 +1,52 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls -la
+    4  ls -l
+    5  git clone https://github.com/rtu-etf/2017_2018_00.git
+    6  ls -l
+    7  cd 2017_2018_00/
+    8  cd temp/
+    9  ls -la
+   10  ls -l
+   11  nano dialogs.sh
+   12  cat dialogs.sh 
+   13  dialogs
+   14  ./dialogs.sh
+   15  chmod 744 dialogs.sh 
+   16  ./dialogs.sh
+   17  nano dialogs.sh
+   18  ./dialogs.sh
+   19  nano dialogs.sh
+   20  ./dialogs.sh
+   21  nano dialogs.sh
+   22  mv dialogs.sh dialogs_C02.sh 
+   23  ./dialogs_C02.sh 
+   24  ls -la
+   25  cp dialogs_C02.sh a_VS_b.sh
+   26  ls -la
+   27  nano a_VS_b.sh 
+   28  ./a_VS_b.sh 
+   29  nano a_VS_b.sh 
+   30  ./a_VS_b.sh 
+   31  nano a_VS_b.sh 
+   32  ./a_VS_b.sh 
+   33  nano a_VS_b.sh 
+   34  cat a_VS_b.sh 
+   35  ./a_VS_b.sh 
+   36  nano a_VS_b.sh 
+   37  ls -l
+   38  cp a_VS_b.sh a_VS_b_VS_c.sh 
+   39  cp a_VS_b.sh test.sh
+   40  nano test.sh 
+   41  cat test.sh 
+   42  ./test.sh 1 2 3
+   43  nano test.sh 
+   44  ./test.sh 1 2 3
+   45  cat test.sh 
+   46  ./test.sh 1 2 3
+   47  nano test.sh 
+   48  ./test.sh 1 2 3
+   49  nano test.sh 
+   50  cd ..
+   51  nano git-upload 
+   52  history > history_20171018_C02.txt
