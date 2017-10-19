@@ -1,0 +1,9 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  nano a_VS_b_C03.sh 
+    4  cp a_VS_b_C03.sh a_VS_b_VS_c_C03.sh 
+    5  ls -l
+    6  mv * ../
+    7  ls -l
+    8  cd ..
+    9  history > history_20171019_C03.txt
