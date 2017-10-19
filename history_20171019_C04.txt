@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00.git
+    3  pwd
+    4  ls -l
+    5  cd 2017_2018_00/
+    6  pwd
+    7  cd temp/
+    8  ls -l
+    9  rm *
+   10  ls -l
+   11  nano dialogs_C04.sh
+   12  cat dialogs_C04.sh 
+   13  chmod 744 dialogs_C04.sh 
+   14  ./dialogs_C04.sh 
+   15  nano dialogs_C04.sh
+   16  ./dialogs_C04.sh 
+   17  cp dialogs_C04.sh a_VS_b_C04.sh
+   18  ls -l
+   19  nano a_VS_b_C04.sh 
+   20  ./a_VS_b_C04.sh 
+   21  nano a_VS_b_C04.sh 
+   22  cp a_VS_b_C04.sh a_VS_b_Vs_c_C04.sh 
+   23  mv a_VS_b_Vs_c_C04.sh a_VS_b_VS_c_C04.sh 
+   24  ls -l
+   25  nano a_VS_b_C04.sh 
+   26  ls -la
+   27  mv * ../
+   28  ls -la
+   29  cd ..
+   30  history > history_20171019_C04.txt
