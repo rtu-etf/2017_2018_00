@@ -1,0 +1,78 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  ls -l
+    4  cd 2017_2018_00/
+    5  nano if_C01.sh
+    6  chmod 744 if_C01.sh 
+    7  ./if_C01.sh 10
+    8  ./if_C01.sh -10
+    9  ./if_C01.sh 0
+   10  ./if_C01.sh 10
+   11  nano if_C01.sh
+   12  ./if_C01.sh 10
+   13  nano if_C01.sh
+   14  ./if_C01.sh -10
+   15  ./if_C01.sh 0
+   16  ./if_C01.sh 10
+   17  nano if_C01.sh
+   18  ./if_C01.sh 10
+   19  ./if_C01.sh -10
+   20  ./if_C01.sh 0
+   21  cat if_C01.sh 
+   22  nano if_C01.sh
+   23  ./if_C01.sh 10
+   24  ./if_C01.sh 0
+   25  ./if_C01.sh -10
+   26  cat if_C01.sh
+   27  ps
+   28  ps -aux
+   29  who
+   30  cat array_loop_C02.sh 
+   31  nano sort_C01.sh
+   32  cat sort_C01.sh 
+   33  cat sort_C01.sh 1 2 3
+   34  cat sort_C01.sh 
+   35  chmod 744 sort_C01.sh 
+   36  cat sort_C01.sh 
+   37  ./sort_C01.sh 1 2 3
+   38  nano array_loop_C01.sh
+   39  chmod 744 array_loop_C01.sh 
+   40  ./array_loop_C01.sh 5 8 9
+   41  nano array_loop_C01.sh
+   42  cat array_loop_C01.sh 
+   43  ./array_loop_C01.sh 5 8 9
+   44  ./array_loop_C01.sh 89 63
+   45  ./array_loop_C01.sh 100 78
+   46  ./array_loop_C01.sh 100
+   47  nano array_loop_C01.sh
+   48  cat array_loop_C01.sh
+   49  ./array_loop_C01.sh 100
+   50  ./array_loop_C01.sh 100 500
+   51  ./array_loop_C01.sh  4 6 5  8 5 4 4  4 58  5 4  5 5 5 5 5
+   52  cat array_loop_C01.sh
+   53  nano array_loop_C01.sh
+   54  ./array_loop_C01.sh 1 2 3
+   55  nano array_loop_C01.sh
+   56  ./array_loop_C01.sh 1 2 3
+   57  ./array_loop_C01.sh 1 2 3 4 5 6
+   58  nano array_loop_C01.sh
+   59  nano 
+   60  ls
+   61  who
+   62  whoami
+   63  nano tests.sh
+   64  chmod 744 tests.sh 
+   65  ./tests.sh 
+   66  cat tests.sh 
+   67  ./tests.sh 
+   68  nmap -sn 10.10.10.0/24
+   69  su sc
+   70  nmap -sn 10.152.17.0/24
+   71  talk
+   72  man talk
+   73  talk
+   74  man nc
+   75  man sort
+   76  whereis sort
+   77  cat /usr/bin/sort
+   78  history > history_20171025_C01.txt
