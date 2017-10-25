@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  ls -l
+    4  cd 2017_2018_00/
+    5  nano
+    6  pwd
+    7  nano if_C02.sh
+    8  chmod 744 if_C02.sh 
+    9  ./if_C02.sh 
+   10  chmod 744 if_C02.sh 
+   11  nano if_C02.sh
+   12  chmod 744 if_C02.sh 
+   13  ./if_C02.sh 
+   14  cat if_C02.sh 
+   15  nano if_C02.sh
+   16  cat if_C02.sh 
+   17  ./if_C02.sh 10
+   18  ./if_C02.sh -10
+   19  nano if_C02.sh
+   20  ./if_C02.sh 10
+   21  nano if_C02.sh
+   22  ./if_C02.sh 10
+   23  nano if_C02.sh
+   24  ./if_C02.sh 10
+   25  nano if_C02.sh
+   26  ./if_C02.sh 10
+   27  nano if_C02.sh
+   28  ./if_C02.sh 10
+   29  ./if_C02.sh -10
+   30  nano if_C02.sh
+   31  ./if_C02.sh -10
+   32  ./if_C02.sh 10
+   33  ./if_C02.sh -10
+   34  ./if_C02.sh 0
+   35  nano if_C02.sh
+   36  ./if_C02.sh 10
+   37  ./if_C02.sh -10
+   38  ./if_C02.sh 0
+   39  nano if_C02.sh
+   40  cat if_C02.sh 
+   41  nano
+   42  nano array_loop_C02.sh
+   43  chmod 744 array_loop_C02.sh 
+   44  ./array_loop_C02.sh 10 89 63
+   45  nano array_loop_C02.sh
+   46  ./array_loop_C02.sh 10 89 63
+   47  nano array_loop_C02.sh
+   48  ./array_loop_C02.sh 10 89 63
+   49  nano array_loop_C02.sh
+   50  ./array_loop_C02.sh 10 89 63
+   51  nano array_loop_C02.sh
+   52  y
+   53  ./array_loop_C02.sh 10 89 63
+   54  cat array_loop_C02.sh 
+   55  ./array_loop_C02.sh 10 89 63
+   56  nano array_loop_C02.sh
+   57  cat array_loop_C02.sh 
+   58  ./array_loop_C02.sh 10 89
+   59  history > history_20171025_C02.txt
