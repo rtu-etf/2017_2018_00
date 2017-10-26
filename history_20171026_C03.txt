@@ -1,0 +1,51 @@
+    1  VirtualBox --startvm XP
+    2  ls -la
+    3  ls -l
+    4  git clone https://github.com/rtu-etf/2017_2018_00
+    5  ls -l
+    6  cd 2017_2018_00/
+    7  cd 2
+    8  nano if_C03.sh
+    9  chmod 744 if_C03.sh 
+   10  ./if_C03.sh 10
+   11  ./if_C03.sh -10
+   12  nano if_C03.sh
+   13  cat if_C03.sh 
+   14  ./if_C03.sh 10
+   15  ./if_C03.sh -10
+   16  nano if_C03.sh
+   17  ./if_C03.sh 10
+   18  ./if_C03.sh -10
+   19  nano if_C03.sh
+   20  ./if_C03.sh 10
+   21  ./if_C03.sh -10
+   22  ./if_C03.sh 0
+   23  nano if_C03.sh
+   24  cat if_C03.sh 
+   25  nano if_C03.sh
+   26  ./if_C03.sh 10
+   27  ./if_C03.sh -10
+   28  ./if_C03.sh 0
+   29  nano if_C03.sh
+   30* 
+   31  ./if_C03.sh -10
+   32  ./if_C03.sh 0
+   33  nano array_loop_C03.sh
+   34  chmod 744 array_loop_C03.sh 
+   35  ./array_loop_C03.sh 7 5 9 6
+   36  nano array_loop_C03.sh
+   37  ./array_loop_C03.sh 7 5 9 6
+   38  ./array_loop_C03.sh 869 63 9 6
+   39  nano array_loop_C03.sh
+   40  ./array_loop_C03.sh 869 63 9 6
+   41  nano array_loop_C03.sh
+   42  ./array_loop_C03.sh 869 63 9 6
+   43  nano array_loop_C03.sh
+   44  ./array_loop_C03.sh 869 63 9 6
+   45  ./array_loop_C03.sh 869 63 7 8 9 5 6 3 
+   46  nano array_loop_C03.sh
+   47  ./array_loop_C03.sh 869 63 7 8 9 5 6 3 
+   48  ./array_loop_C03.sh 869 63 7 8 9 5 6 3 l
+   49  nano array_loop_C03.sh
+   50  ./array_loop_C03.sh 869 63 7 8 9 5 6 3 l
+   51  history > history_20171026_C03.txt
