@@ -1,0 +1,18 @@
+Masīvs pirms kārtošanas: 
+3 2 1 
+------------------------------------
+Masīvs pirms 1. lielās iterācijas: 
+3 2 1 
+Tiek salīdzināti array[0]=3 un array[1]=2
+Tiek salīdzināti array[1]=3 un array[2]=1
+Masīvs pēc 1. lielās iterācijas: 
+2 1 3 
+------------------------------------
+Masīvs pirms 2. lielās iterācijas: 
+2 1 3 
+Tiek salīdzināti array[0]=2 un array[1]=1
+Masīvs pēc 2. lielās iterācijas: 
+1 2 3 
+------------------------------------
+Masīvs pēc kārtošanas: 
+1 2 3 
