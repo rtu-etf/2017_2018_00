@@ -1,0 +1,116 @@
+    1  VirtualBox --startvm XP
+    2  ping 213.175.92.22
+    3  git clone https://github.com/rtu-etf/2017_2018_0
+    4  git clone https://github.com/rtu-etf/2017_2018_00
+    5  cd 2017_2018_00/
+    6  pwd
+    7  ls -l
+    8  mkdir PYTHON
+    9  cd PYTHON/
+   10  pwd
+   11  ls -l
+   12  cat hello.py 
+   13  whereis python
+   14  nano hello_C02.py 
+   15  ls -l
+   16  ./hello_C02.py
+   17  chmod 744 hello_C02.py
+   18  ./hello_C02.py
+   19  nano
+   20  ./hello_C02.py
+   21  nano hello_C02.py
+   22  ./hello_C02.py
+   23  nano hello_C02.py
+   24  cat hello.py 
+   25  nano hello_C02.py
+   26  ./hello_C02.py
+   27  nano hello_C02.py
+   28  ./hello_C02.py
+   29  nano hello_C02.py
+   30  man cat
+   31  man echo
+   32  ls -l
+   33* 
+   34  mv variables.py variables_C02.py 
+   35  chmod 744 variables_C02.py 
+   36  ./variables_C02.py 
+   37  nano hello_C02.py
+   38  ./variables_C02.py 
+   39  nano variables_C02.py 
+   40  ./variables_C02.py 
+   41  cat variables_C02.py 
+   42  nano variables_C02.py 
+   43  ./variables_C02.py 
+   44  nano variables_C02.py 
+   45  cat variables_C02.py 
+   46  ./variables_C02.py 
+   47  nano variables_C02.py 
+   48  ./variables_C02.py 
+   49  nano variables_C02.py 
+   50  ./variables_C02.py 
+   51  nano variables_C02.py 
+   52  ./variables_C02.py 
+   53  nano variables_C02.py 
+   54  ./variables_C02.py 
+   55  nano variables_C02.py 
+   56  ./variables_C02.py 
+   57  nano variables_C02.py 
+   58  ./variables_C02.py 
+   59  nano variables_C02.py 
+   60  ./variables_C02.py 
+   61  nano variables_C02.py 
+   62  ./variables_C02.py 
+   63  nano variables_C02.py 
+   64  ./variables_C02.py 
+   65* 
+   66  ./variables_C02.py 
+   67  nano variables_C02.py 
+   68  ./variables_C02.py 
+   69  nano variables_C02.py 
+   70  ./variables_C02.py 
+   71  nano variables_C02.py 
+   72  ./variables_C02.py 
+   73  nano variables_C02.py 
+   74  nano dialogs.py
+   75  mv dialogs.py dialogs_C02.py 
+   76  chmod 744 dialogs_C02.py 
+   77  ./dialogs_C02.py 
+   78  nano dialogs_C02.py 
+   79  ./dialogs_C02.py 
+   80  nano dialogs_C02.py 
+   81  ./dialogs_C02.py 
+   82  nano dialogs_C02.py 
+   83  cat dialogs_C02.py 
+   84  ./dialogs_C02.py 
+   85  nano dialogs_C02.py 
+   86  ./dialogs_C02.py 
+   87  nano dialogs_C02.py 
+   88  ./dialogs_C02.py 
+   89  nano dialogs_C02.py 
+   90  ./dialogs_C02.py 
+   91  nano dialogs_C02.py 
+   92  nano if.py
+   93  mv if.py if_C02.py 
+   94  chmod 744 if_C02.py 
+   95  ./if_C02.py 
+   96  python if_C02.py 
+   97  nano if.py
+   98  nano if_C02.py 
+   99  python if_C02.py 
+  100  nano if_C02.py 
+  101* 
+  102  nano if_C02.py 
+  103  ls -l
+  104  ./if_C02.py 
+  105  python if_C02.py 
+  106  idle &
+  107  idle
+  108  ghblgjhk
+  109  dfg
+  110  df
+  111  hdg
+  112  idle &
+  113  f
+  114  cd ..
+  115  pwd
+  116  history > history_20171108_C0.txt
