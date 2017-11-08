@@ -1,10 +1,15 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# https://www.tutorialspoint.com/unix_commands/echo.htm
+# Example 3. - 7.
+
+
+
 '''
-# 3. piemērs
+# example 3
+# echo -e 'Here \bthe \bspaces \bare \bbackspaced.'
 print "Here \bthe \bspaces \bare \bbackspaced."
-print "\\b - nozīme ..."
 '''
 '''
 # 1. piemērs

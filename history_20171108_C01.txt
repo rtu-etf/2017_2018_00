@@ -1,0 +1,99 @@
+    1  VirtualBox --startvm XP
+    2  ping 213.175.92.22
+    3  ping facebook.com
+    4  git clone https://github.com/rtu-etf/2017_2018_00
+    5  cd 2017_2018_00/
+    6  pwd
+    7  ls 
+    8  ls
+    9  cd PYTHON/
+   10  ls -l
+   11  nano hello_C01.py
+   12  whereis python
+   13  nano hello_C01.py
+   14  ./hello_C01.py
+   15  chmod 744 hello_C01.py 
+   16  ./hello_C01.py
+   17  nano hello_C01.py
+   18  ls -l
+   19  mv hello.py hello_C03.py
+   20  ls -l
+   21  nano hello_C02.py 
+   22  ./hello_C02.py
+   23  nano hello_C02.py 
+   24  ./hello_C02.py
+   25  nano hello_C02.py 
+   26  ./hello_C02.py
+   27  nano hello_C02.py 
+   28  ./hello_C02.py
+   29  nano hello_C02.py 
+   30  ls -l
+   31  nano variables_C01.py 
+   32  chmod 744 variables_C01.py 
+   33  ./variables_C01.py 
+   34  nano variables_C01.py 
+   35  ./variables_C01.py 
+   36  nano variables_C01.py 
+   37  ./variables_C01.py 
+   38  nano variables_C01.py 
+   39  ./variables_C01.py 
+   40  nano variables_C01.py 
+   41  ./variables_C01.py 
+   42  nano variables_C01.py 
+   43  cat variables_C01.py 
+   44  ./variables_C0
+   45  ./variables_C01.py 
+   46  cat variables_C01.py 
+   47  ./variables_C01.py 
+   48  nano variables_C01.py 
+   49  ./variables_C01.py 
+   50  nano variables_C01.py 
+   51  ./variables_C01.py 
+   52  nano variables_C01.py 
+   53  ./variables_C01.py 
+   54  nano variables_C01.py 
+   55  ./variables_C01.py 
+   56  ls -l
+   57  cat variables_C01.py 
+   58  cat variables_C02.py
+   59  ls -l
+   60  who
+   61  ls -l
+   62  nano dialogs_C01.py
+   63  chmod 744 dialogs_C01.py 
+   64  ./dialogs_C01.py 
+   65  nano dialogs_C01.py
+   66  ./dialogs_C01.py 
+   67  nano dialogs_C01.py
+   68  ./dialogs_C01.py 
+   69  nano dialogs_C01.py
+   70  ./dialogs_C01.py 
+   71  nano dialogs_C01.py
+   72  ./dialogs_C01.py 
+   73  nano dialogs_C01.py
+   74  ./dialogs_C01.py 
+   75  nano dialogs_C01.py
+   76  ./dialogs_C01.py 
+   77  nano dialogs_C01.py
+   78  ./dialogs_C01.py 
+   79  nano dialogs_C01.py
+   80  ./dialogs_C01.py 
+   81  nano dialogs_C01.py
+   82  ./dialogs_C01.py 
+   83  nano dialogs_C01.py
+   84  ./dialogs_C01.py 
+   85  nano dialogs_C01.py
+   86  nano if_C01.py
+   87  chmod if_C01.py 
+   88  chmod 744 if_C01.py 
+   89  ./if_C01.py 
+   90  python if_C01.py 
+   91  nano if_C01.py
+   92  python if_C01.py 
+   93  nano if_C01.py
+   94  python if_C01.py 
+   95  nano if_C01.py
+   96  idle &
+   97  cd ..
+   98  pwd
+   99  history > history_20171108_C01.txt
