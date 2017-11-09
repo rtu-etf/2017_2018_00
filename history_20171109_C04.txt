@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  ping 213.175.92.37
+    3  ping facebook.com
+    4  git clone https://github.com/rtu-etf/2017_2018_00
+    5  cd 2017_2018_00/
+    6  ls -l
+    7  cd PYTHON/
+    8  nano hello_C04.py
+    9  whereis python
+   10  nano hello_C04.py
+   11  ./hello_C04.py
+   12  chmod 744 hello_C04.py 
+   13  ./hello_C04.py
+   14  nano hello_C04.py
+   15  ./hello_C04.py
+   16  nano hello_C04.py
+   17  nano variables_C04.py
+   18  chmod 744 variables_C04.py 
+   19  ./variables_C04.py 
+   20  cat variables_C04.py 
+   21  ./variables_C04.py 
+   22  nano variables_C04.py
+   23  ./variables_C04.py 
+   24  nano variables_C04.py
+   25  ./variables_C04.py 
+   26  nano variables_C04.py
+   27  ./variables_C04.py 
+   28  nano variables_C04.py
+   29  ./variables_C04.py 
+   30  nano variables_C04.py
+   31  ./variables_C04.py 
+   32  nano variables_C04.py
+   33  ./variables_C04.py 
+   34  nano variables_C04.py
+   35  nano dialogs_C04.py
+   36  chmod 744 dialogs_C0
+   37  chmod 744 dialogs_C04.py 
+   38  ./dialogs_C04.py 
+   39  nano dialogs_C04.py
+   40  ./dialogs_C04.py 
+   41  nano dialogs_C04.py
+   42  ./dialogs_C04.py 
+   43  nano dialogs_C04.py
+   44  ./dialogs_C04.py 
+   45  nano dialogs_C04.py
+   46  ./dialogs_C04.py 
+   47  nano dialogs_C04.py
+   48  ./dialogs_C04.py 
+   49  nano dialogs_C04.py
+   50  ./dialogs_C04.py 
+   51  nano dialogs_C04.py
+   52  ./dialogs_C04.py 
+   53  nano if_C04.py
+   54  python if_C04.py 
+   55  nano if_C04.py
+   56  python if_C04.py 
+   57  nano if_C04.py
+   58  python if_C04.py 
+   59  nano if_C04.py
+   60  idle &
+   61  ls -l
+   62  cd ..
+   63  history > history_20171109_C04.txt
