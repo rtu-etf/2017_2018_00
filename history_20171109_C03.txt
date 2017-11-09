@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00
+    4  cd PYTHON/
+    5  pwd
+    6  ls -l
+    7  cat hello_C03.py 
+    8  ls -l
+    9  nano variables_C03.py
+   10  chmod 744 variables_C01.py 
+   11  chmod 744 variables_C03.py 
+   12  ls -lt
+   13  ./variables_C03.py 
+   14  ls -lt
+   15  nano variables_C03.py
+   16  ./variables_C03.py 
+   17  nano variables_C03.py
+   18  ./variables_C03.py 
+   19  nano variables_C03.py
+   20  ./variables_C03.py 
+   21  nano variables_C03.py
+   22  ./variables_C03.py 
+   23  nano dialogs_C03.py
+   24  chmod 744 dialogs_C03.py 
+   25  ./dialogs_C03.py 
+   26  nano dialogs_C03.py
+   27  ./dialogs_C03.py 
+   28  nano dialogs_C03.py
+   29  ./dialogs_C03.py 
+   30  nano dialogs_C03.py
+   31  ./dialogs_C03.py 
+   32  nano dialogs_C03.py
+   33  cd ..
+   34  history > history_20171109_C03.txt
