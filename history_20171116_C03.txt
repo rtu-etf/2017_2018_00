@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/
+    4  cd PYTHON/
+    5  ls -l
+    6  nano sin_caur_summu_ver1_C03.py
+    7  python sin_caur_summu_ver1_C03.py 
+    8  nano sin_caur_summu_ver1_C03.py
+    9  python sin_caur_summu_ver1_C03.py 
+   10  cat sin_caur_summu_ver1_C03.py 
+   11  python sin_caur_summu_ver1_C03.py 
+   12  nano sin_caur_summu_ver1_C03.py
+   13  python sin_caur_summu_ver1_C03.py 
+   14  nano sin_caur_summu_ver1_C03.py
+   15  python sin_caur_summu_ver1_C03.py 
+   16  nano sin_caur_summu_ver1_C03.py
+   17  cp sin_caur_summu_ver1_C03.py sin_caur_summu_ver2_C03.py
+   18  ls -l
+   19  nano sin_caur_summu_ver2_C03.py 
+   20  cp sin_caur_summu_ver2_C03.py sin_caur_summu_ver3_C03.py 
+   21  nano sin_caur_summu_ver3_C03.py 
+   22  python sin_caur_summu_ver3_C03.py 
+   23  nano sin_caur_summu_ver3_C03.py 
+   24  python sin_caur_summu_ver3_C03.py 
+   25  nano sin_caur_summu_ver3_C03.py 
+   26  cp sin_caur_summu_ver3_C03.py sin_caur_summu_ver4_C03.py
+   27  nano sin_caur_summu_ver4_C03.py 
+   28  python sin_caur_summu_ver4_C03.py 
+   29  nano sin_caur_summu_ver4_C03.py 
+   30  python sin_caur_summu_ver4_C03.py 
+   31  cp sin_caur_summu_ver4_C03.py sin_caur_summu_ver5_C03.py 
+   32  nano sin_caur_summu_ver5_C03.py 
+   33  python sin_caur_summu_ver5_C03.py 
+   34  nano sin_caur_summu_ver5_C03.py 
+   35  python sin_caur_summu_ver5_C03.py 
+   36  cp sin_caur_summu_ver5_C03.py sin_caur_summu_C03.py
+   37  nano sin_caur_summu_C03.py 
+   38  python sin_caur_summu_C03.py 
+   39  nano sin_caur_summu_C03.py 
+   40  python sin_caur_summu_C03.py 
+   41  cd ..
+   42  history > history_20171116_C03.txt
