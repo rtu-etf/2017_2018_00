@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/
+    4  cd PYTHON/
+    5  pwd
+    6  nano sin_caur_summu_ver1_C04.py
+    7  python sin_caur_summu_ver1_C04.py 
+    8  nano sin_caur_summu_ver1_C04.py
+    9  python sin_caur_summu_ver1_C04.py 
+   10  nano sin_caur_summu_ver1_C04.py
+   11  python sin_caur_summu_ver1_C04.py 
+   12  nano sin_caur_summu_ver1_C04.py
+   13  python sin_caur_summu_ver1_C04.py 
+   14  nano sin_caur_summu_ver1_C04.py
+   15  python sin_caur_summu_ver1_C04.py 
+   16  nano sin_caur_summu_ver1_C04.py
+   17  cp sin_caur_summu_ver1_C04.py sin_caur_summu_ver2_C04.py 
+   18  nano sin_caur_summu_ver2_C04.py
+   19  python sin_caur_summu_ver2_C04.py 
+   20  nano sin_caur_summu_ver2_C04.py
+   21  python sin_caur_summu_ver2_C04.py 
+   22  nano sin_caur_summu_ver2_C04.py
+   23  cp sin_caur_summu_ver2_C04.py sin_caur_summu_ver3_C04.py
+   24  nano sin_caur_summu_ver3_C04.py
+   25  python sin_caur_summu_ver3_C04.py 
+   26  nano sin_caur_summu_ver3_C04.py
+   27  python sin_caur_summu_ver3_C04.py 
+   28  cd ..
+   29  history > history_20171115_C04.txt
