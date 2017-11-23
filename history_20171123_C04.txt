@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/PYTHON/
+    4  pwd
+    5  idle &
+    6  kill 2842
+    7  idle &
+    8  python sin_caur_summu_ver5_C04.py 
+    9  nano
+   10  cd ..
+   11  history > history_20171123_C04.txt
