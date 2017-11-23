@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/PYTHON/
+    4  pwd
+    5  idle &
+    6  ls -l
+    7  cd ..
+    8  history > history_20171123_C03.txt
