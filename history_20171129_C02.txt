@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/PYTHON/
+    4  pwd
+    5  idle &
+    6  kill 2764
+    7  idle &
+    8  echo Teksts
+    9  ls -l
+   10  cat python_diary_20171129_C02.py 
+   11  ipython
+   12  python
+   13  cat python_diary_20171129_C02.py 
+   14  idle &
+   15  python ziimeeshana_C02.py 
+   16  idle &
+   17  nano tests.py
+   18  python tests.py 
+   19  python tests.py | grep background
+   20  python tests.py | grep plot
+   21  python tests.py
+   22  python tests.py | grep back
+   23  python tests.py | grep ground
+   24* 
+   25  idle &
+   26  cd ..
+   27  history > history_20171129_C02.txt
