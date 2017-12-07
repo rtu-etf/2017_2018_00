@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  git clone htts://github.com/2017_2018_00
+    3  git clone htts://github.com/rtu-etf/2017_2018_00
+    4  git clone https://github.com/rtu-etf/2017_2018_00
+    5  ping 213.175.92.22
+    6  idle &
+    7  git clone htts://github.com/rtu-etf/2017_2018_00
+    8  git clone https://github.com/rtu-etf/2017_2018_00
+    9  mv derivative.py ./2017_2018_00/PYTHON/derivative_C03.py 
+   10  ls -lt
+   11  cd 2017_2018_00/PYTHON/
+   12  idle &
+   13  cd ..
+   14  history > history_20171207_C03.txt
