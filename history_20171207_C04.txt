@@ -1,0 +1,8 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/PYTHON/
+    4  idle &
+    5  python dichotomy_C04.py 
+    6  cd ..
+    7  nano
+    8  history > history_20171207_C04.txt
