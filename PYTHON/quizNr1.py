@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 import numpy as np
 
@@ -7,30 +8,31 @@ def ranges(bars_ranges_local,bars_local,x_local):
             if x_local[i] > bars_ranges_local[j] \
                and x_local[i] < bars_ranges_local[j+1]:
                 bars_local[j] = bars_local[j] + 1
-                #print x_local[i]
-                #print bars_local
+                #print "Tiek analizēts: ",x_local[i]
+                #print "Skaitītāju stāvoklis: ",bars_local
         if x_local[i] > bars_ranges_local[j+1]:
             bars_local[j+1] = bars_local[j+1] + 1
-            #print x_local[i]
-            #print bars_local
+            #print "Tiek analizēts: ",x_local[i]
+            #print "Skaitītāju stāvoklis: ",bars_local
     return bars_local
 
-N = 5
+N = 5#100000
 x = []
 a = 0
 b = np.pi
 delta = 0.5
-random.seed(0)
-for i in range(N):   
+#random.seed(0)
+for i in range(N):
+    #random.seed(0)
     x.append(random.uniform(a,b))
     #x.append(random.triangular(a,b))
-    #print x
+    #print "Izdruka no uniform cikla: ", x
 print x
 
 bars_ranges = np.arange(a,b,delta)
-print bars_ranges
+print "Diapazona apakšrobežas: ",bars_ranges
 bars = np.zeros(len(bars_ranges))
-print bars
+print "Diapazonu skaitītāji: ",bars
 bars = ranges(bars_ranges,bars,x)
 print bars
 print bars.sum()

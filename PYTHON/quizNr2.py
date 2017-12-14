@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,15 +10,17 @@ def mans_sinuss(x):
 N = 100000
 x = []
 y = []
-a = 0
+a = 0.
 b = np.pi
-c = -1
-d = 1
+c = -4.
+d = 4.
 
 for i in range(N):
     x.append(random.uniform(a,b))
+    #print "Kā veidojās x masīvs: ",x
 for i in range(N):
     y.append(random.uniform(c,d))
+    #print "Kā veidojās y masīvs: ",y
 
 red_x = []
 red_y = []
@@ -39,5 +42,5 @@ plt.grid()
 plt.show()
 
 areaRect = (b-a)*(d-c)
-areaSin = areaRect * len(green_x) / N
-print areaSin
+areaFunc = areaRect * len(green_x) / N
+print areaFunc
