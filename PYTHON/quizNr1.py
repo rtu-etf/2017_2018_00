@@ -18,14 +18,15 @@ def ranges(bars_ranges_local,bars_local,x_local):
 
 N = 5#100000
 x = []
+#print x
 a = 0
 b = np.pi
 delta = 0.5
 #random.seed(0)
 for i in range(N):
     #random.seed(0)
-    x.append(random.uniform(a,b))
-    #x.append(random.triangular(a,b))
+    #x.append(random.uniform(a,b))
+    x.append(random.triangular(a,b))
     #print "Izdruka no uniform cikla: ", x
 print x
 
