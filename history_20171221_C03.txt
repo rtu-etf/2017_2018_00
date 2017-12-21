@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/rtu-etf/2017_2018_00
+    3  cd 2017_2018_00/
+    4  ls 
+    5  mkdir FINAL
+    6  cd FINAL
+    7  ls -l
+    8  nano index.html 
+    9  firefox &
+   10  python -m SimpleHTTPServer 8000 &
+   11  ifconfig 
+   12  ls -l
+   13  cd ..
+   14  cd PYTHON/
+   15  ls -l
+   16  python quizNr2.py 
+   17  python quizNr1.py 
+   18  python quizNr2.py 
+   19  cd ../FINAL/
+   20  ls -l
+   21  mv index.html index_.html 
+   22  ls -l
+   23  mv index_.html index.html 
+   24  ps -aux | grep python
+   25  python -m SimpleHTTPServer 8000 &
+   26  cd ..
+   27  ifconfig 
+   28  cd FINAL/
+   29  ls -l
+   30  cd ..
+   31  history 
+   32  history > history_20171221_C03.txt
